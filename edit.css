@@ -1,0 +1,407 @@
+body{
+    margin: 0;
+}
+p{
+    margin-bottom: 0rem;
+}
+.container-fluid{
+    width: 100%;
+     padding-right:0px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container {
+    width: 100%;
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    margin-right: auto;
+    margin-left: auto;
+}
+.fhead{
+    border-bottom: 1px solid rgb(7, 1, 1);
+}
+.fhead h1{
+    font-size: 43px;
+    font-weight: bolder;
+    color: #fb6b34
+}
+.fhead p{
+    margin-top: 0;
+    margin-bottom: 0rem;
+    line-height: 0px;
+    font-size: 16px;
+    margin-left: 6px
+}
+
+
+
+.logo {
+    font-size: 54px;
+    border: 1px solid #423123;
+    border-radius: 50%;
+    color: white;
+    padding: 5px;
+    background-color: #fb6b34;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+
+
+    .media {
+        padding-top: 30px;
+
+}
+.media a{
+    padding-left: 8px;
+    font-size: 22px;
+    color: black;
+}
+.contact{
+    background-color: #fb6b34;
+    color: white;
+    line-height: 10px;
+    text-align: center;
+    padding-top: 18px;
+    font-size: 21px;
+    font-weight: inherit
+
+}
+
+/*Class for the Navigation Bar */
+.navbar-expand-sm{
+    
+    background-image: linear-gradient(to bottom, #ff9b48, #d4cfcf) !important;
+}
+.navbar-expand-sm li{
+    padding-left: 15px;
+    
+}
+
+/* -----------------------header end--------------------------- */
+.bg{
+    background-image: url("cover.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 522px;
+}
+.welcome{
+    margin-top: 65px;
+    margin-left: 216px;
+    background-color: #ffffff40;
+}
+.welcome p
+{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 61px;
+    color: #0b0a0ac2;
+    font-family: initial;
+}
+
+.deal,.dog,.cat{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 365px;
+}
+.deal{
+    background-image: url("deal.jpg");
+
+}
+.dog{
+    background-image: url("dog.jpg");
+}
+.cat{
+    background-image: url("cat.jpg");
+
+}
+.deal h4{
+    color: white;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 72px;
+    padding-left: 9px
+
+}
+.deal span{
+    color: white;
+    padding-left: 9px;
+    font-size: 21px;
+    line-height: 23px
+}
+.deal p{
+    color: white;
+    padding-left: 9px;
+    font-weight: 700;
+    font-size: 17px
+
+}
+.deal button{
+    width: 117px;
+    height: 34px;
+    color: white;
+    background-color: #ff9b48;
+
+}
+.dog h4{
+    padding-left: 6px;
+    padding-top: 238px;
+    color: white;
+    font-size: 41px;
+
+}
+.dog p{
+    color: white;
+    line-height: 7px
+}
+.dog button{
+    width: 117px;
+    height: 34px;
+    color: white;
+    background-color: #ff9b48;
+    margin-top: 16px;
+    
+}
+
+.cat h4{
+    padding-left: 6px;
+    padding-top: 238px;
+    color: white;
+    font-size: 41px;
+
+}
+.cat p{
+    color: white;
+    line-height: 7px
+}
+.cat button{
+    width: 117px;
+    height: 34px;
+    color: white;
+    background-color: #ff9b48;
+    margin-top: 16px;
+    
+}
+.bird{
+background-image: url("bird.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 365px;
+}
+.fish{
+    background-image: url("fish.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 365px;
+}
+
+
+ .fish-bird{
+    padding-right: 0px;
+    
+    padding-left: 67px;
+ }
+ .bird h4{
+    padding-left: 6px;
+    padding-top: 238px;
+    color: white;
+    font-size: 41px;
+
+}
+.bird p{
+    color: white;
+    line-height: 7px
+}
+.bird button{
+    width: 117px;
+    height: 34px;
+    color: white;
+    background-color: #ff9b48;
+    margin-top: 16px;
+    
+}
+
+.fish h4{
+    padding-left: 6px;
+    padding-top: 238px;
+    color: white;
+    font-size: 41px;
+
+}
+.fish p{
+    color: white;
+    line-height: 7px
+}
+.fish button{
+    width: 117px;
+    height: 34px;
+    color: white;
+    background-color: #ff9b48;
+    margin-top: 16px;
+}
+.smal{
+    background-image: url("mouse.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 365px;
+
+}
+.rept{
+    background-image: url("reptiles.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 365px;
+
+}
+.smal-rep{
+    padding-right: 0px;
+    
+    padding-left:69px;;
+ }
+
+ .smal h4{
+    padding-left: 6px;
+    padding-top: 238px;
+    color: white;
+    font-size: 41px;
+
+}
+.smal p{
+    color: white;
+    line-height: 7px
+}
+.smal button{
+    width: 117px;
+    height: 34px;
+    color: white;
+    background-color: #ff9b48;
+    margin-top: 16px;
+    
+}
+.rept h4{
+    padding-left: 6px;
+    padding-top: 238px;
+    color: white;
+    font-size: 41px;
+
+}
+.rept p{
+    color: white;
+    line-height: 7px
+}
+.rept button{
+    width: 117px;
+    height: 34px;
+    color: white;
+    background-color: #ff9b48;
+    margin-top: 16px;
+    
+}
+.our-ch h3{
+    text-align: center;
+    color: #ff9b48;
+    font-size: 42px;
+    font-weight: 700;
+
+}
+
+.ml{
+    margin-left: 30px;
+}
+.product h5{
+    padding-left: 36px;
+    padding-top: 11px;
+}
+.product span{
+    padding-left: 72px;
+}
+.product button{
+    margin-left: 50px;
+}
+.shop-all button{
+    
+    height: 34px;
+    color: white;
+    background-color: #ff9b48;
+    margin-top: 16px;
+   
+    margin-left: 470px;
+    margin-top: 57px;
+    width: 123px;
+
+}
+.bg-gra{
+    background-color: #8080802b;
+}
+.brands h4{
+    text-align: center;
+    color: #ff9b48;
+    font-size: 42px;
+    font-weight: 700;
+}
+.foter{
+    background-color:#ff9b48 ;
+
+}
+.foter h5{
+    color: white;
+    padding-top: 83px;
+
+}
+.foter p{
+    color: white;
+    padding-top: 34px;
+    line-height: 37px;
+    font-family: initial;
+}
+.foter ul{
+    
+    list-style: none;
+    padding-left: 6px;
+    padding-top: 36px;
+    line-height: 33px;
+    color: white;
+    font-family: initial;
+}
+.email{
+    margin-top: 45px;
+    width: 242px;
+
+}
+.foter button{
+    background-color: orange;
+    margin-top: 11px;
+    width: 242px;
+}
+.foter label{
+    
+        color: white;
+        font-size: 14px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
